@@ -1,0 +1,10 @@
+ENG1 English-I 1
+ENG2 English-II 2
+MT1 Mathematics-I 1
+MT2 Mathematics-II 2
+U1 URDU-I 1
+U2 URDU-1I 2
+SCI1 SCIENCE-I 1
+SCI2 SCIENCE-1I 2
+CS1 ITC-I 1
+CS2 ITC-1I 2
