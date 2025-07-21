@@ -1,0 +1,2 @@
+install packages like npm, mongoose, express react, etc.
+use .env file for storing port, connection string, secrect key.
